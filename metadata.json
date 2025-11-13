@@ -1,0 +1,5 @@
+{
+  "name": "Real-time Equipment Monitoring Dashboard",
+  "description": "A dashboard to monitor port equipment like cranes, trucks, and RTGs in real-time. It displays continuous data streams on performance, location, and health for each piece of equipment.",
+  "requestFramePermissions": []
+}
